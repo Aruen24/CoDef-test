@@ -36,6 +36,7 @@ See [this repository](https://github.com/NVlabs/tiny-cuda-nn#pytorch-extension)
 for Pytorch extension install instructions.
 
 ## Reference readme.txt file
+```shell
 create enviroment
 conda create -n codef python=3.10
 
@@ -67,7 +68,7 @@ Test reconstruction
 
 视频转换
 ./scripts/test_canonical.sh
-
+```
 
 ## Data
 
